@@ -1,0 +1,21 @@
+From c5f96eae3674c6c8f229a651d25d0d1cc3b21842 Mon Sep 17 00:00:00 2001
+From: josiahdc <josiah.chapman@gmail.com>
+Date: Wed, 5 Oct 2022 13:07:01 -0700
+Subject: [PATCH] added requirements
+
+---
+ requirements.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 requirements.txt
+
+diff --git a/requirements.txt b/requirements.txt
+new file mode 100644
+index 0000000..f678e82
+--- /dev/null
++++ b/requirements.txt
+@@ -0,0 +1 @@
++python-dateutil==2.8.2
+\ No newline at end of file
+-- 
+2.25.1
+
